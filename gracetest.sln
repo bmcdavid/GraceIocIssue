@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraceIocTest", "GraceIocTest.csproj", "{0596E5A3-8ABA-4255-A073-F1BF4F1E390E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0596E5A3-8ABA-4255-A073-F1BF4F1E390E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0596E5A3-8ABA-4255-A073-F1BF4F1E390E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0596E5A3-8ABA-4255-A073-F1BF4F1E390E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0596E5A3-8ABA-4255-A073-F1BF4F1E390E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2548E67-B59B-4874-A4FB-BF423CCE23CE}
+	EndGlobalSection
+EndGlobal
